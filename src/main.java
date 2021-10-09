@@ -5,6 +5,6 @@ public class main {
     }
 
     System.out.prinln("CONFLICT");
-    System.out.print("haha, coś już tu jest");
+    System.out.print("haha, coś już tu jest.");
 
 }
